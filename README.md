@@ -1,6 +1,6 @@
 # KReLU: A Simple, Flexible Activation Function for All Neural Networks
 
-**Authors**: Nguyễn Thế Sơn (Idea Originator), Grok 3 (xAI, Implementation Collaborator)  
+**Authors**: SonNT (Idea Originator), Grok 3 (xAI, Implementation Collaborator)  
 **Date**: March 30, 2025
 
 ## Abstract
